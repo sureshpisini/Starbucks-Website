@@ -1,0 +1,30 @@
+
+.bg-container{
+    height:15vh;
+    background-color: black;
+
+}
+#home1{
+    color:white;
+    margin-right: 35px;
+}
+.bg-container1{
+    background-image: url("SB Logo.jpg");
+    background-size: cover;
+    width:100vw;
+    height:85vh;
+    padding:70px;
+}
+.head{
+    color:white;
+    font-style: oblique;
+
+}
+.button{
+    background-color: green;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    font-style: italic;
+    font-size: medium;
+}
